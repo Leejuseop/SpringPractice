@@ -9,7 +9,6 @@ public class HelloSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HelloSpringApplication.class, args);
 
-		VIEW환경설정까지 봤다잉
 	}
 
 }
