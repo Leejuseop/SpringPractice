@@ -2,10 +2,16 @@ package hello.hellospring.repository;
 
 import java.util.List;
 import java.util.Optional;
+
+import org.springframework.stereotype.Repository;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.ArrayList;
 import hello.hellospring.domain.Member;
+
+
+
 
 public class MemoryMemberRepository implements MemberRepository{
 
